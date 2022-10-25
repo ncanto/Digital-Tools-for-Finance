@@ -1,0 +1,5 @@
+243 man -s ps -K "Select all processes" 244 cd digitaltools 245 man ls | less +/"'Select all processes" 246 man pls | less +/"'Select all processes"
+ 247 man pls | less +/'Select all processes'
+ 248 man ps | less +/'Select all processes' 
+ 249 man pls | less +/'and'
+ 250 man ps | less +/'and' 251 man ps | less +/'Select all processes' 252 /history 253 history 254 history 255 history 20 256 history -20 257 history -20 | echo >> test.txt 258 echo history -20 259 echo "history -20" 260 echo $history -20 261 echo $history $-20 262 echo $(history -20)

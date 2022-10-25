@@ -1,0 +1,12 @@
+mkdir temp/
+cd ..
+echo "hello world" >> hello.txt
+ls
+ps -ax
+kill 666
+echo $PATH >> path.txt
+TBD: find file 'hello.txt' in the parent of the current directory
+ls -R | grep '\.png$' 
+whereis echo
+man ps | less +/'Select all processes'  
+echo $(history -20) >> commands.txt

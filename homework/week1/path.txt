@@ -1,0 +1,1 @@
+/Users/ninacantoni/opt/anaconda3/bin:/Users/ninacantoni/opt/anaconda3/condabin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/opt/X11/bin
